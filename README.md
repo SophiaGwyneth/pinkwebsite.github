@@ -262,10 +262,7 @@
  <h4>
   <a href="https://www.techtarget.com/searchnetworking/definition/metropolitan-area-network-MAN#:~:text=A%20metropolitan%20area%20network%20(MAN)%20is%20a">•	Wright, G. (2021, February 24). metropolitan area network (MAN). Networking. </a>
  </h4>
-</p>
-</div> 
-</div>
-</section>
+
 </body>
 </html>
 
